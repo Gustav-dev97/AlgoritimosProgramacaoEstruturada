@@ -8,7 +8,7 @@ Este repositório apresenta exemplos práticos a respeito de:
 - Structs
 - Stdin
 - Ponteiros
-- Operadores Lógicos
+- Operadores Aritméticos
 - Bibliotecas
 - Constantes
 - Entrada de Dados
